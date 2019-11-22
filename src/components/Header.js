@@ -10,7 +10,7 @@ const AppBar = styled.header`
 `;
 
 const Img = styled.img`
-  width: 30%;
+  width: 140px;
 `;
 
 export default function Header() {
