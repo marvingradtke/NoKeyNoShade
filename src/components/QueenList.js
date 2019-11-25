@@ -10,6 +10,7 @@ const List = styled.div`
 
 const Poster = styled.img`
   width: 200px;
+  height: 320px;
   padding: 10px;
 `;
 
